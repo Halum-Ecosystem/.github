@@ -118,7 +118,7 @@ You can also click **Sync fork** on your fork's GitHub page.
 - **Updated documentation** if your change affects how something is built or
   used.
 
-We try to give a first response at least within a week or two. If you haven't heard back,
+We try to give a first respone within two weeks. If you haven't heard back,
 feel free to leave a comment on the pull request.
 
 ## Safety-related changes
